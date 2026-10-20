@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://c117suhaniassignment2-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">487813100096</string>
+    <string name="google_api_key" translatable="false">AIzaSyCRdo_Sq5hHhGcglD-Nh4o7m4rpbb0epVI</string>
+    <string name="google_app_id" translatable="false">1:487813100096:android:214202f8f30fd4a8ef65a5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCRdo_Sq5hHhGcglD-Nh4o7m4rpbb0epVI</string>
+    <string name="google_storage_bucket" translatable="false">c117suhaniassignment2.firebasestorage.app</string>
+    <string name="project_id" translatable="false">c117suhaniassignment2</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "487813100096",
+    "firebase_url": "https://c117suhaniassignment2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "c117suhaniassignment2",
+    "storage_bucket": "c117suhaniassignment2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487813100096:android:214202f8f30fd4a8ef65a5",
+        "android_client_info": {
+          "package_name": "com.example.c117suhanijainassignment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRdo_Sq5hHhGcglD-Nh4o7m4rpbb0epVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
